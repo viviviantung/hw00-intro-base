@@ -5,6 +5,12 @@
 </p>
 <p align="center">(source: Ken Perlin)</p>
 
+I made a cube by creating the indices, normals, and positions of the cube.
+To create my custom fragment shader, I used 3D FBM noise.
+To create my custom vertex shader, I used a sin function on the X, Y, and Z positions of the cube separately to deform the cube over time.
+
+![](566-hw0-0.png)
+
 ## Objective
 - Check that the tools and build configuration we will be using for the class works.
 - Start learning Typescript and WebGL2
