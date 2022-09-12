@@ -13,6 +13,8 @@ To create my custom vertex shader, I used a sin function on the X, Y, and Z posi
 
 ![](566-hw0-1.png)
 
+https://viviviantung.github.io/hw00-intro-base/index.html
+
 ## Objective
 - Check that the tools and build configuration we will be using for the class works.
 - Start learning Typescript and WebGL2
