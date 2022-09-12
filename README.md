@@ -11,6 +11,8 @@ To create my custom vertex shader, I used a sin function on the X, Y, and Z posi
 
 ![](566-hw0-0.png)
 
+![](566-hw0-1.png)
+
 ## Objective
 - Check that the tools and build configuration we will be using for the class works.
 - Start learning Typescript and WebGL2
